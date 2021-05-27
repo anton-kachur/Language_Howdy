@@ -1,0 +1,7 @@
+program
+    a = 1
+    in(a)
+bye
+
+
+
